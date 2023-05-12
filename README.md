@@ -37,6 +37,11 @@ Once you run the program, you will be presented with a simple GUI that allows yo
 
 - [Prince Prajapati](https://github.com/Princy0)
 
+## Contact
+- You can contact me for contributing more prjects : 
+- Email : Princepn029@gmail.com
+- Linkedin : https://www.linkedin.com/in/princeprajapati/
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
